@@ -1,0 +1,52 @@
+Extra Small- 100%
+Small- 540
+medium- 720
+Large- 960
+Extra large-1140
+Extra extra large- 1320
+
+
+Font Family===
+clicker Script 
+400
+font-family: "Clicker Script", cursive;
+
+playfair Display 
+400,500,700
+font-family: "Playfair Display", serif;
+
+color===
+white-#FFFFFF
+yellow-#F9C06A
+coffee-#1E1E1E
+ash- #707070
+
+
+
+
+
+
+
+******normaly j bisoy gula screen wise different hoy*****
+
+xxl-xl-lg              md           sm-col
+order- content left theke right e newa
+size- img siz, font size etc
+space- margin,padding
+alignment- left,right,center alignment.
+
+Note: content center e nite hole left,right e margin or padding thakle khokono content center e asbe na
+
+
+
+
+
+
+
+
+
+
+
+
+
+
